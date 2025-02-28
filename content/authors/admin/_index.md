@@ -51,7 +51,7 @@ education:
   - area: M.Eng Mechanical Engineering
     institution: Xi'an Jiaotong University
     date_start: 2019-09-01
-    date_end: 2022-06-31
+    date_end: 2022-06-30
     summary: |
       GPA: 3.81/4.0
       IELTS: 7.0 (6.5/7.5/6/6)
